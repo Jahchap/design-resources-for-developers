@@ -1,7 +1,4 @@
-# Design Resources For Developers
-
-> A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
-
+![Repository Banner](https://res.cloudinary.com/techlead/image/upload/v1589632171/Github/mtqzazsxetwufeb08h4j.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
@@ -10,6 +7,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Favicons](#favicons)
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
@@ -53,10 +51,10 @@
 | [Animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
-| [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
-| [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.
+| [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
+| [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin     
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -90,6 +88,8 @@
 | [Fonts for Apple Platforms](https://developer.apple.com/fonts/)| Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps |
 | [SFWin](https://github.com/blaisck/sfwin/)| San Francisco Fonts for Windows 10 and non-Apple Platform |
 | [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts |
+| [Fonts Arena](https://fontsarena.com/) | Free curated fonts |
+| [Befonts](https://befonts.com/) | High quality fonts for free |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -103,9 +103,9 @@
 | ----------------------- | ------------------ |
 | [Colormind.io](http://colormind.io)| Color palette generator |
 | [ColorCurves.app](https://colorcurves.app)| Color palette generator that uses curves to generate color palettes |
-| [Coolors](https://coolors.co/generate)| Color schemes generator |
-| [Coolors](https://coolors.co/palettes/trending)| Trending color palettes |
+| [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
+| [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
@@ -129,6 +129,11 @@
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 | [Gradient Buttons](https://gradientbuttons.colorion.co/) | Ready to use copy/paste gradient buttons |
+| [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
+| [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments. 
+| [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
+| [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
+| [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -149,7 +154,7 @@
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
-| [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place  |
+| [Iconscout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place  |
 | [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
 | [Icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG  |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project  |
@@ -170,6 +175,27 @@
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |
 | [Endless Icons](http://endlessicons.com/) | A website offering a number of free icons. Icons are tagged and also compressed into kits. |
 | [Icomoon](https://icomoon.io/app/) |Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons. |
+| [Eva Icons](https://akveo.github.io/eva-icons/#/) |Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
+| [Zondicons](http://www.zondicons.com/) | A set of free premium SVG icons for you to use on your digital products. you can download the icons into your desktop |
+| [Entypo](http://www.entypo.com/) | 411 carefully crafted premium pictograms |
+| [Cryptoicons](http://cryptoicons.co/) | A set of 430 crypto and fiat currency icons. Completely free. |
+| [Ikonate](https://ikonate.com/) | Fully customisable & accessible vector icons |
+| [appicon](https://appicon.co/)| Quickly generate app icons in diffrent sizes for your IOS, macOS and Android projects|
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Favicons
+
+>Resources for Favicons
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Favicon.io](https://favicon.io/)| Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats |
+| [Favicon Generator](http://tools.dynamicdrive.com/favicon/)| Generate favicon ico files for your website |
+| [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
+| [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -197,6 +223,8 @@
 | [Weather Icons](https://erikflowers.github.io/weather-icons/) | Weather Icons is the only icon font with 222 weather themed icons |
 | [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | 202 thin stroke icons inspired by iOS 7 |
 | [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
+| [Fontastic.me](http://fontastic.me/) | Create your custom icon fonts in seconds. Over 9,000 icons available to pick from or upload your custom svg |
+| [Fontello](http://fontello.com/)| 200+ web icons where you can customize the names or codes of icons. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -232,7 +260,8 @@
 | [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
 | [Piqsels](https://piqsels.com/)| Royalty Free Stock Photos |
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
-
+| [Nappy](https://www.nappy.co/)| A website offering Beautiful, high-res photos of black and brown people.|
+| [Generated Photos](https://generated.photos/)| Unique AI Generated model photos|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -244,6 +273,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Pexels](https://www.pexels.com/videos)| Largest library of free to use videos, donated by the community |
+| [Pixabay](https://www.pixabay.com/videos)| Large library of free to use videos, donated by the community similar to Pexels |
 | [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
 | [Videezy](https://www.videezy.com/)| Free HD stock footage & 4K videos |
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
@@ -413,12 +443,14 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
+| [Velocity.js](http://velocityjs.org/)| Velocity is an lightweight animation engine with the same API as jQuery's $.animate() |
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
+| [Tilt.Js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -479,17 +511,15 @@
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers |
-| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
 | [Ant Design](https://ant.design/)| Open source design React ui library. |
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
 | [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
 | [Base Web](https://baseweb.design/)| Base Web provides a robust suite of components out of the box |
 | [Backpack UI](http://lonelyplanet.github.io/backpack-ui/?path=/story/styles--design-tokens)| Backpack is the Lonely Planet toolset that we use to build front end apps. |
 | [Reaviz](https://reaviz.io)| Data visualization library for React based on D3 |
+| [React Suite](https://rsuitejs.com/en/)| A suite of React components, sensible UI design, and a friendly development experience. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -504,7 +534,7 @@
 | [Vuetify](https://vuetifyjs.com/en/)| Material design component framework |
 | [Bootstrap Vue](https://bootstrap-vue.org/)| Use Bootstrap components with Vue |
 | [Buefy](https://buefy.org/)| Lightweight UI components based on Bulma |
-| [Quasar](https://quasar.dev/)| Build high-performance VueJS user interfaces in record time |
+| [Quasar](https://quasar.dev/)| High-performance Material Design component suite with builders for SPA, SSR, PWA, Mobile (Cordova & Capacitor), Desktop (Electron) and Browser extensions |
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
@@ -562,6 +592,7 @@
 | [Material Design](https://material.io/)| Google's Material Design |
 | [Ant Design](https://ant.design/)| Design system for enterprise-level products |
 | [Apple Design Resources](https://developer.apple.com/design/resources/)| Guides and templates for using Apple design and UI |
+| [Primer](https://primer.style/)| Design, build, and create with GitHub’s design system |
 | [Alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html)| Oracle's design system and toolkit |
 | [Pulse](https://pulse.heartbeat.ua/)| Design system, guides and React component library |
 | [Bolt](https://boltdesignsystem.com/)| Robust Twig and web component powered UI components |
@@ -587,6 +618,8 @@
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
 | [Done Design System](https://uilibrary.github.io/done-design-system/)| Open source design system, guides & components |
+| [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
+| [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -615,9 +648,6 @@
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
 | [Octopus](https://octopus.do/)| Sitemap builder |
-| [Favicon Generator](http://tools.dynamicdrive.com/favicon/)| Generate favicon ico files for your website |
-| [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
-| [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
@@ -635,6 +665,8 @@
 | [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
 | [Ui Bakery](https://uibakery.io/) | Create full-fledged web apps visually |
 | [Faux](http://knutsynstad.com/fauxcode/) | Turn real code into faux code |
+| [Rive](https://rive.app/) | Real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform.
+| [Unscreen](https://www.unscreen.com/) | Remove Video Background 100% Automatically and Free |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -688,6 +720,9 @@
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |
 | [Collect UI](http://collectui.com/)| Daily inspiration collected from daily ui archive and beyond. Hand picked, and updating daily. |
 | [Graphic Burger](https://graphicburger.com/) | A site offering a free and pain icons, mock-ups, Ui-Kits, text effect and backgrounds.  This site's resource are a mix of free and paid resources. Icons is on a mix of PNG, SVG, EPS and Sketch Format. Some resources are confusing as there are sponsored content in the middle of the free sets.  |
+| [Really Good Emails](https://reallygoodemails.com/) | A site offering users a ton of company e-mails from customer service to marketing.  |
+| [Free Design Resource](https://freedesignresources.net/) | A site offering fonts, mockups, templates graphics and ui kits.  |
+| [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -710,6 +745,7 @@
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
 | [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
+| [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -724,8 +760,13 @@
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
 | [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 | [The Web Toolbox](https://thewebtoolbox.cc/)| A collection of handy, free-to-use tools for web developers, programmers and designers. |
+| [WebDevTrick](https://webdevtrick.com/)| A famous blog for many amazing HTML, CSS, JQuery designs. |
 | [css-tricks](https://css-tricks.com/)| Free CSS tricks and some unique ideas for beginners and advanced |
-| [Material Design Resizer](https://material.io/resources/resizer/)| An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet. |
+| [Material Design Resizer](https://material.io/resources/resizer/)| An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet |
+| [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent|
+| [A11ygator](https://a11ygator.chialab.io/)| A web tool to scan websites against WCAG rules |
+| [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
+| [CleanCss](https://www.cleancss.com/)| Tool For Code Foramtter, Minifier, File Converter | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
